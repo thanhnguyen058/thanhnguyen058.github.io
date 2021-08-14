@@ -1,11 +1,11 @@
 {
-    "name": "dadl_dashboard",
-    "short_name": "dadl_dashboard",
+    "name": "tddn_money",
+    "short_name": "tddn_money",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "DADL Dashboard",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
